@@ -1,11 +1,3 @@
-# Music Recommender System
+##🎵 Music Recommender System
 
-## Setup
-1. Clone the repository.
-2. Create a `.env` file in the root directory with the following content:
-
-## Spotifysong DataSet
-https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset/code
-
-
-
+This project is a Music Recommender System that suggests songs based on Cosine Similarity and distance metrics. Users can select a song, and the system recommends five similar tracks, complete with album covers fetched from Spotify.
