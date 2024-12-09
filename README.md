@@ -59,9 +59,9 @@ Step 5: Run the Application
 ## 🙋 Frequently Asked Questions
 
 1. How do I get Spotify API credentials?
-	# •	Visit the Spotify Developer Dashboad
+## •	Visit the Spotify Developer Dashboad
 		https://developer.spotify.com/dashboard/.
-	•	Create a new app to get your Client ID and Client Secret.
+## •	Create a new app to get your Client ID and Client Secret.
 
 3. Can I use a different dataset?
 	•	Yes, but preprocess it to match the format used in this project.
@@ -69,7 +69,7 @@ Step 5: Run the Application
 4. How can I deploy this app?
 	•	Use platforms like Streamlit Cloud, Heroku, or AWS for deployment.
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-# Piyush Kumar Mahato
+## Piyush Kumar Mahato
 Aspiring Data Scientist | Tech Enthusiast
