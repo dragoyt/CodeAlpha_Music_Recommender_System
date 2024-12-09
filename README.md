@@ -71,5 +71,5 @@ Step 5: Run the Application
 
 ## 👨‍💻 Author
 
-Piyush Kumar Mahato
+# Piyush Kumar Mahato
 Aspiring Data Scientist | Tech Enthusiast
